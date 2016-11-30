@@ -12,8 +12,8 @@
 * Einrichtung von Diskussionsrunden zur fachlichen und politischen Förderung von Menschen.
 * Herausgabe von Druckwerken wie Informationsbroschüren, Mitteilungsblätter u.ä.
 * Betrieb eines (für alle zur Verfügung stehenden) IT-Systemhauses im Rahmen eines vereinseigenen Unternehmens mit folgenden besonderen Aufgaben:
-* Bereitstellung von EDV-Dienstleistungen die Menschen das Erreichen der Vereinsziele ermöglichen.
-* Bereitstellung von EDV-Dienstleistungen die gemeinnützigen Organisationen das Erreichen der Vereinsziele ermöglichen.
+** Bereitstellung von EDV-Dienstleistungen die Menschen das Erreichen der Vereinsziele ermöglichen.
+** Bereitstellung von EDV-Dienstleistungen die gemeinnützigen Organisationen das Erreichen der Vereinsziele ermöglichen.
 
 ###Die erforderlichen materiellen Mittel sollen aufgebracht werden durch:
 
