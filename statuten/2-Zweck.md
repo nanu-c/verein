@@ -12,6 +12,6 @@ Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, bezweckt:
 * Die Förderung der Anliegen von Frauen, im allgemeinen und durch Aufarbeitung frauenspezifischer Themen rund um digitale Subsistenz.
 * Die Förderung der Akzeptanz LesBiSchwuler und TransGender Personen im allgemeinen und im Bezug auf digitale Subsistenz.
 * Die Förderung sozialer Projekte zur Steigerung digitaler Subsistenz.
-* Die allgemeinverständliche Aufarbeitung fachlicher Themenbereiche zur erlangung digitaler Subsistenz.
+* Die allgemeinverständliche Aufarbeitung fachlicher Themenbereiche zur Erlangung digitaler Subsistenz.
 * Die Förderung der Diskussion gesellschafts- und tagespolitischer Themen im Sinne der Meinungsvielfalt im Allgemeinen und im Digitalen.
 * Die Förderung der Bewusstmachung politischer und gesellschaftlicher Zusammenhänge von Wissenschaft und Forschung.

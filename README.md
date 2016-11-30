@@ -1,5 +1,5 @@
 # Convive* Labor für digitale Subsistenz
 
-Orga-Karam für den Verein
+Orga-Kram für den Verein
 
 * [Statuten](/statuten/)
