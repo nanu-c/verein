@@ -47,10 +47,10 @@ vorbehaltenen Handlungsbevollmächtigten.
 
 (2) Der/die Sprecher\*in leitet die Sitzungen des Vorstandes und der Generalversammlung, bei Verhinderung wird ein*e Stellvertreter\*in bestellt. Er/Sie hat über seine/ihre laufende Tätigkeit und in der Generalversammlung über die Tätigkeit des Vorstandes zu berichten. In schriftlichen Unterlagen, die die Vereinstätigkeit betreffen, hat er/sie den ordentlichen Mitgliedern Einsicht zu gewähren.
 
-(3) Der/die Sprecher\*in ist gemeinsam mit dem/der Kassier\*in bei dringenden Angelegenheiten im Namen des Vereines berechtigt, Entscheidungen ohne den Beschluss eines Vereinsorganes zu treffen, wofür er/sie jedoch die Verantwortung zu tragen haben. Das recht aller ordentlichen Mitglieder, jederzeit einen schwerwiegenden Einwand zu äußern bleibt davon unberührt. 
+(3) Der/die Sprecher\*in ist gemeinsam mit dem/der Kassier\*in bei dringenden Angelegenheiten im Namen des Vereines berechtigt, Entscheidungen ohne den Beschluss eines Vereinsorganes zu treffen, wofür er/sie jedoch die Verantwortung zu tragen haben. Das recht aller ordentlichen Mitglieder, jederzeit einen schwerwiegenden Einwand zu äußern bleibt davon unberührt.
 
 (4) Der/die Kassier\*in ist für die finanzielle Gebahrung des Vereines verantwortlich und führt die entsprechenden Bankkonti des Vereines. Zusätzlich verwaltet er/sie eine Handkasse, in der tunlichst nie mehr als 500.- EUR vorhanden sein sollten. Höhere Summen sind immer auf einem Bankkonto zu verwahren.
 
 (5) Der/die Schriftführer\*in überwacht die führung der Protokolle und des Logbuchs.
 
-(6) Bei Verhinderung werden die Aufgaben der/des Sprecher\*in und des/der Kassiers/*in durch bevollmächtigte Stellvertreter\*innen übernommen.
+(6) Bei Verhinderung werden die Aufgaben der/des Sprecher\*in und des/der Kassiers\*in durch bevollmächtigte Stellvertreter\*innen übernommen.

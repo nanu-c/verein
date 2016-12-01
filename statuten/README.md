@@ -1,6 +1,7 @@
 #Statuten
 
-FYI Die Statuten sind nooch nicht fertig :)
+1. FYI Die Statuten sind nooch nicht fertig :)
+2. Die jeweils aktuell gültigen Statuten finden sich in der master branch dieses Repositoriums
 
 ##Präambel
 
