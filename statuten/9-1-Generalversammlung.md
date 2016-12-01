@@ -12,3 +12,31 @@ Ordentliche Mitglieder haben die Möglichkeit ihre Stimme in einer Sitzung der G
 
 ####Statutenänderungen
 Anträge zur Änderung der Statuten werden der Generalversammlung vorgelegt. Diese entscheidet über die Gültigkeit des Antrags. Im Falle einer positiven Entscheidung, haben alle ordentlichen Mitglieder die Möglichkeit innerhalb von zwei Wochen Einwände (vgl. [Entscheidungsverfahren](4-Entscheidungsverfahren.md)) vorzubringen.
+
+###Aufgabenkreis der Generalversammlung
+
+Der Generalversammlung sind folgende Aufgaben vorbehalten:
+
+* Festsetzung eines Mitgliedbeitrages.
+* Wahl, Bestellung und Enthebung der Mitglieder des Vorstandes.
+* Wahl, Bestellung und Enthebung der zwei Rechnungsprüfer\*innen.
+* Entscheidung über Berufungen gegen Nichtaufnahme von Personen als Vereinsmitglieder jedweder Art durch den Vorstand.
+* Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
+* Beschluss von Anträgen, die im Aufgabenbereich des Vorstandes liegen, und die bei der nächsten Vorstandssitzung zu behandeln sind.
+* Beschluss jeglicher Anträge inhaltlicher, den Verein betreffender Natur, sofern dies nicht im Aufgabenbereich eines anderen Vereinsorganes betreffen.
+* Entscheidungen über Grundsatzfragen der Verwendung von Unternehmensüberschüssen zur Verwirklichung der Vereinsziele.
+* Entscheidung über die Gründung, Einstellung und Ausgliederung vereinseigener Unternehmen.
+* Beschluß über eine Geschäftsordnung für die Regelung des Ablaufes der Sitzungen, diese darf jedoch keine Widersprüche zu den Vereinsstatuten aufweisen.
+* Sonstige Aufgaben, die nicht durch ein anderes Vereinsorgan abgedeckt sind.
+
+/*Auslagern*/
+* Entgegennahme und Genehmigung eines Rechenschaftsberichtes und des Rechnungsabschlusses, sowie eines etwaigen Geschäftsberichtes vereinseigener Unternehmen und den Kontrollbericht des Kontrollausschusses nach Entgegennahme und Genehmigung durch den Vorstand.
+* Beschlussfassung über den Jahresvoranschlag, nach Genehmigung durch den Vorstand.
+* Entscheidungen über Rechtsgeschäfte, die mit Ausgaben von mehr als 50.000.-öS verbunden sind Diese, wie auch sonst jedes Rechtsgeschäft bedarf auch einer gesonderten Zustimmung durch den Vorstand. Rechtsgeschäfte, die diese Obergrenze nicht erreichen, kann der Vorstand auch alleine beschließen.
+
+/*Überprüfen*/
+* Wahl, Bestellung und Enthebung der drei Mitglieder des Kontrollausschusses.
+* Wahl, Bestellung und Enthebung der Leiter\*innen des Forums für Kritik.
+* Wahl, Bestellung und Enthebung der leitenden Mitglieder des Koordinator\*innengremiums.
+
+* Beschlussfassung über die freiwillige Auflösung des Vereines, nach erfolgtem Beschluß durch den Vorstand, mit 2/3- Mehrheit.
