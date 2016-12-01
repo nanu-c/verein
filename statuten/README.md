@@ -1,5 +1,7 @@
 #Statuten
 
+FYI Die Statuten sind nooch nicht fertig :)
+
 ##Präambel
 
 Besonderer Dank gilt dem [Tüwi](http://tuewi.action.at/) und dem [Gaga:rin](https://cafegagarin.at/) die vorzeigen was alles geht.
@@ -13,3 +15,5 @@ Wir werden das ändern.
 ##[Zweck des Vereins](2-Zweck.md)
 ##[Mittel zur Erreichung des Vereinszweckes](3-Mittel_zur_Erreichung_des_Vereinszweckes.md)
 ##[Arten der Mitgliedschaft](4-Arten_der_Mitgliedschaft.md)
+##[Erwerb der Mitgliedschaft](5-Erwerb_der_Mitgliedschaft.md)
+##[Beendigung der Mitgliedschaft](6-Beendigung_der_Mitgliedschaft.md)
