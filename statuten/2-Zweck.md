@@ -2,7 +2,7 @@
 
 Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, bezweckt:
 
-* Förderung der Verbreitung des Wissens über digitale Subsistenz.
+1. Förderung der Verbreitung des Wissens über digitale Subsistenz.
 * Die Förderung interaktiver Zusammenarbeit zwischen Menschen die digitale Subsistenz bewusst leben und jenen die dies noch nicht tun.
 * Die Förderung der Kommunikation zwischen Menschen die digitale Subsistenz leben.
 * Die Förderung der Zusammenarbeit von Organisationen die sich für die Verbreitung digitaler Subsistenz oder ähnlicher Prinzipien einsetzen.

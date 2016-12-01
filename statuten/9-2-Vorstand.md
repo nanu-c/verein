@@ -6,22 +6,22 @@ Der Vorstand besteht aus drei stimmberechtigten Mitgliedern, gewählt von der Ge
 * dem/der Schriftführer\*in
 * dem/der Kassier\*in
 
-Antragsberechtigt sind die Rechnungsprüfer\*innen, die Geschäftsführung, der/die Vorsitzende des Kontrollausschusses, das Forum für Kritik und die Koordinator\*innengremium.
+(1) Antragsberechtigt sind die Rechnungsprüfer\*innen, die Geschäftsführung, der/die Vorsitzende des Kontrollausschusses, das Forum für Kritik und die Koordinator\*innengremium.
 Der Vorstand hat das Recht, in einzelnen Angelegenheiten Auskunftspersonen hinzuzuziehen.
 
-Mindestens eines der gewählten Mitglieder muss wirtschaftlich oder juristisch sachkundig sein.
+(2) Mindestens eines der gewählten Mitglieder muss wirtschaftlich oder juristisch sachkundig sein.
 
-Der Vorstand hat bei Ausscheiden eines gewählten Mitgliedes das Recht ein neues interimistisch bis zur nächstfolgenden Generalversammlung einzusetzen.
+(3) Der Vorstand hat bei Ausscheiden eines gewählten Mitgliedes das Recht ein neues interimistisch bis zur nächstfolgenden Generalversammlung einzusetzen.
 
-Die Funktionsdauer des Vorstandes beträgt drei Jahre.
+(4) Die Funktionsdauer des Vorstandes beträgt drei Jahre.
 Die Funktionsdauer eines Vorstandsmitgliedes und die damit verbundenen Verantwortlichkeiten enden erst, wenn die entsprechende Funktion neu besetzt ist.
 
-Der Vorstand tritt mindestens viermal im Jahr zusammen. Die Vorstandssitzung ist nur für ordentliche Mitglieder zugänglich. Im Falle der Störung des Sitzungsablaufes hat der/die Sprecher\*in das Recht die Teilnahme an der Sitzung auf die Mitglieder des Vorstandes zu beschränken und die Beobachter\*innen aus dem Sitzungsraum zu weisen.
+(5) Der Vorstand tritt mindestens viermal im Jahr zusammen. Die Vorstandssitzung ist nur für ordentliche Mitglieder zugänglich. Im Falle der Störung des Sitzungsablaufes hat der/die Sprecher\*in das Recht die Teilnahme an der Sitzung auf die Mitglieder des Vorstandes zu beschränken und die Beobachter\*innen aus dem Sitzungsraum zu weisen.
 Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder schriftlich eingeladen wurden und mindestens zwei anwesend sind.
 
-Die Vertretungsorgane des Vereines nach außen sind der/die Sprecher\*in und der/die Kassier\*in.
+(6) Die Vertretungsorgane des Vereines nach außen sind der/die Sprecher\*in und der/die Kassier\*in.
 
-Der Vorstand ist dazu verpflichtet, allen ordentlichen Mitgliedern jederzeit über die Vereinstätigkeit Auskunft zu geben; insbesondere ist den Mitgliedern des Kontrollausschusses und den Rechnungsprüfer\*innen Einsicht in alle Unterlagen des Vereines zu gewährleisten.
+(7) Der Vorstand ist dazu verpflichtet, allen ordentlichen Mitgliedern jederzeit über die Vereinstätigkeit Auskunft zu geben; insbesondere ist den Mitgliedern des Kontrollausschusses und den Rechnungsprüfer\*innen Einsicht in alle Unterlagen des Vereines zu gewährleisten.
 
 #### Aufgaben des Vorstandes
 Dem Vorstand obliegt die Leitung des Vereines. In seinen Wirkungsbereich fallen insbesonders folgende Angelegenheiten:
