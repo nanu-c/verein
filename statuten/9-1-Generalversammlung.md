@@ -34,7 +34,7 @@ Der Generalversammlung hat folgende Aufgaben:
 /*Auslagern*/
 * Entgegennahme und Genehmigung eines Rechenschaftsberichtes und des Rechnungsabschlusses, sowie eines etwaigen Geschäftsberichtes vereinseigener Unternehmen und den Kontrollbericht des Kontrollausschusses nach Entgegennahme und Genehmigung durch den Vorstand.
 * Beschlussfassung über den Jahresvoranschlag, nach Genehmigung durch den Vorstand.
-* Entscheidungen über Rechtsgeschäfte, die mit Ausgaben von mehr als 50.000.-öS verbunden sind Diese, wie auch sonst jedes Rechtsgeschäft bedarf auch einer gesonderten Zustimmung durch den Vorstand. Rechtsgeschäfte, die diese Obergrenze nicht erreichen, kann der Vorstand auch alleine beschließen.
+* Entscheidungen über Rechtsgeschäfte, die mit Ausgaben von mehr als 5000.-EUR verbunden sind Diese, wie auch sonst jedes Rechtsgeschäft bedarf auch einer gesonderten Zustimmung durch den Vorstand. Rechtsgeschäfte, die diese Obergrenze nicht erreichen, kann der Vorstand auch alleine beschließen.
 
 /*Überprüfen*/
 * Wahl, Bestellung und Enthebung der drei Mitglieder des Kontrollausschusses.

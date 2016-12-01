@@ -40,3 +40,17 @@ vorbehaltenen Handlungsbevollmächtigten.
 * Aufnahme und Ausschluss von Vereinsmitgliedern.
 * Aufnahme und Kündigung von Angestellten des Vereines.
 * Erstellung eines Berichts über die Verwendung von Unternehmenserträgen, bzw. erforderliche Nachschüsse und Investitionen im Bereich der Vereinsunternehmen, der der Generalversammlung vorgelegt werden muss.
+
+#### Die besonderen Aufgaben einzelner Vorstandsmitglieder
+
+(1) Der/die Sprecher\*in vertritt mit dem/der Kassier\*in gemeinsam den Verein nach außen. Rechtsgeschäftliche Bevollmächtigungen anderer Personen, den Verein zu vertreten, können nur in schriftlicher Form und nur durch diese Personen, erfolgen.
+
+(2) Der/die Sprecher\*in leitet die Sitzungen des Vorstandes und der Generalversammlung, bei Verhinderung wird ein*e Stellvertreter\*in bestellt. Er/Sie hat über seine/ihre laufende Tätigkeit und in der Generalversammlung über die Tätigkeit des Vorstandes zu berichten. In schriftlichen Unterlagen, die die Vereinstätigkeit betreffen, hat er/sie den ordentlichen Mitgliedern Einsicht zu gewähren.
+
+(3) Der/die Sprecher\*in ist gemeinsam mit dem/der Kassier\*in bei dringenden Angelegenheiten im Namen des Vereines berechtigt, Entscheidungen ohne den Beschluss eines Vereinsorganes zu treffen, wofür er/sie jedoch die Verantwortung zu tragen haben. Das recht aller ordentlichen Mitglieder, jederzeit einen schwerwiegenden Einwand zu äußern bleibt davon unberührt. 
+
+(4) Der/die Kassier\*in ist für die finanzielle Gebahrung des Vereines verantwortlich und führt die entsprechenden Bankkonti des Vereines. Zusätzlich verwaltet er/sie eine Handkasse, in der tunlichst nie mehr als 500.- EUR vorhanden sein sollten. Höhere Summen sind immer auf einem Bankkonto zu verwahren.
+
+(5) Der/die Schriftführer\*in überwacht die führung der Protokolle und des Logbuchs.
+
+(6) Bei Verhinderung werden die Aufgaben der/des Sprecher\*in und des/der Kassiers/*in durch bevollmächtigte Stellvertreter\*innen übernommen.
