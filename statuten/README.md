@@ -20,7 +20,8 @@ Wir werden das ändern.
 ##[Beendigung der Mitgliedschaft](7-Beendigung_der_Mitgliedschaft.md)
 ##[Rechte und Pflichten der Mitglieder](8-Rechte_und_Pflichten_der_Mitglieder.md)
 ##[Vereinsorgane](9-0-Vereinsorgane.md)
-###[Generalversammlung](9-1-Generalversammlung.md)
+###[Die Generalversammlung](9-1-Generalversammlung.md)
+###[Der Vorstand](9-2-Vorstand.md)
 
 ##Todo
 Geschäftsordnung?!

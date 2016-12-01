@@ -1,4 +1,4 @@
-##Zweck des Vereines
+## Zweck des Vereines
 
 Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, bezweckt:
 

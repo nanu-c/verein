@@ -1,6 +1,6 @@
-##Mittel zur Erreichung des Vereinszweckes
+## Mittel zur Erreichung des Vereinszweckes
 
-###Der Vereinszweck soll durch folgende ideelle Mittel erreicht werden
+### Der Vereinszweck soll durch folgende ideelle Mittel erreicht werden
 
 * Errichtung und der Betrieb eines Integrations- Bildungs- und Kommunikationszentrums (das Labor) zu den Themen deren Vertiefung zur Erlangung digitaler Subsistenz nötig sind.
 * Aufbau eines Informationspools zu politischen, fachlichen und gesellschaftlichen Themen.
@@ -15,7 +15,7 @@
   * Bereitstellung von EDV-Dienstleistungen die Menschen das Erreichen der Vereinsziele ermöglichen.
   * Bereitstellung von EDV-Dienstleistungen die gemeinnützigen Organisationen das Erreichen der Vereinsziele ermöglichen.
 
-###Die erforderlichen materiellen Mittel sollen aufgebracht werden durch:
+### Die erforderlichen materiellen Mittel sollen aufgebracht werden durch:
 
 * freiwillige Zuwendungen, Spenden
 * Subventionen und Förderungen

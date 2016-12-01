@@ -1,4 +1,4 @@
-##Arten der Mitgliedschaft
+## Arten der Mitgliedschaft
 
 Die Mitglieder des Vereins gliedern sich in ordentliche, außerordentliche, fördernde, temporäre Mitglieder und Ehrenmitglieder.
 

@@ -1,4 +1,4 @@
-##Vereinsorgane
+## Vereinsorgane
 
 Die Organe des Vereins setzen sich aus ordentlichen Mitgliedern zusammen.
 
@@ -18,9 +18,8 @@ Die laut Statuten definierten Organe des Vereins sind:
 * das Koordinator*innengremium
 * die Geschäftsführung
 * der Kontrollausschuß
-* der Koordinationsausschuß
 * das Schiedsgericht
 
-###Weitere Organe
+### Weitere Organe
 
 Jedes Vereinsorgan kann eigenständig Unterorgane mit besonderem Fokus einsetzen. Dabei entscheidet sich das einsetzende Organ für eine\*n Leiter\*in des einzusetzenden Organs. Die Leiter\*in ist für die Organisation der Konstituierende Sitzung des einzusetzenden Organs verantwortlich. Bei der konstituierenden Sitzung entscheiden die Anwesenden über eine\*n Delegierte\*n. Leiter\*in und Delegierte\*r sind berechtigt an den Sitzungen des einsetzenden Organs vollwertig teilzunehmen.

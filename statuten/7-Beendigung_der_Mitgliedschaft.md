@@ -1,4 +1,4 @@
-##Beendigung der Mitgliedschaft
+## Beendigung der Mitgliedschaft
 
 Die Mitgliedschaft erlischt durch Tod (bei juristischen Personen durch Verlust der Rechtspersönlichkeit), durch freiwilliges Ausscheiden und durch Ausschluss.
 

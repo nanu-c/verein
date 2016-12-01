@@ -1,4 +1,4 @@
-##Rechte und Pflichten der Mitglieder
+## Rechte und Pflichten der Mitglieder
 
 Sowohl ordentliche als auch außerordentliche Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins teilzunehmen und die Einrichtungen des Vereins zu beanspruchen.  
 Ordentliche Mitglieder haben darüber hinaus das Stimmrecht in der Generalversammlung, sowie das aktive und passive Wahlrecht. Außerordentliche und fördernde Mitglieder sind in der Generalversammlung nur antragsberechtigt.  

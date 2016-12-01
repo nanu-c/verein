@@ -1,4 +1,4 @@
-##Erwerb der Mitgliedschaft
+## Erwerb der Mitgliedschaft
 
 Über die Aufnahme von Mitgliedern entscheidet in erster Instanz der Vorstand. Die Aufnahme kann ohne Angabe von Gründen verweigert werden, muß dem/der Antragsteller*in jedoch schriftlich zugesandt werden. Die ordentliche Mitgliedschaft und die Ehrenmitgliedschaft treten erst mit der schriftlichen Zusendung der Genehmigung durch den Vorstand in Kraft. Die fördernde Mitgliedschaft tritt erst nach der schriftlichen Zusendung der Genehmigung und der Überweisung der Förderung auf das Vereinskonto in Kraft. Die Mitglieder des Vereins werden mit Namen und Adresse in eine Mitgliederliste eingetragen. Außerordentliche und temporäre Mitgliedschaften treten erst mit dieser Eintragung in Kraft.
 

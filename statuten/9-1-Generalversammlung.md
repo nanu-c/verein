@@ -1,4 +1,4 @@
-###Die Generalversammlung
+### Die Generalversammlung
 
 Die ordentliche Generalversammlung findet mindestens alle drei Jahre statt.
 Eine außerordentliche Generalversammlung hat auf Beschluss des Vorstandes der ordentlichen Generalversammlung, oder auf schriftlich begründeten Antrag von mindestens einem Drittel der ordentlichen Mitglieder binnen drei Wochen stattzufinden. Weiters können der Kontrollausschuss und die Rechnungsprüfer\*innen die Einberufung einer Generalversammlung beim Vorstand verlangen, wobei auch in diesem Fall die Generalversammlung binnen drei Wochen stattzufinden hat.
@@ -10,12 +10,14 @@ ordentlichen Mitgliedern zugesandten Einladung zur Generalversammlung angegeben 
 
 Ordentliche Mitglieder haben die Möglichkeit ihre Stimme in einer Sitzung der Generalversammlung einem anderen ordentlichen Mitglied zu übertragen. Die Stimmübertragung hat in schriftlicher Form zu erfolgen und ist nur für die entsprechende einberufene Generalversammlung gültig. Die Stimmübertragung wird dem Protokoll beigelegt.
 
-####Statutenänderungen
+Zusätzlich können Entscheidungen der Generalversammlung auch getroffen werden ohne eine physische Versammlung einzuberufen. Hierfür muss die anstehende Entscheidung allen Mitgliedern schriftlich kundgetan werden. Wenn innerhalb einer vierwöchigen Frist keine Einwände gemäß dem [Entscheidungsverfahren](4-Entscheidungsverfahren.md) vorgebracht werden ist die Entscheidung getroffen.
+
+#### Statutenänderungen
 Anträge zur Änderung der Statuten werden der Generalversammlung vorgelegt. Diese entscheidet über die Gültigkeit des Antrags. Im Falle einer positiven Entscheidung, haben alle ordentlichen Mitglieder die Möglichkeit innerhalb von zwei Wochen Einwände (vgl. [Entscheidungsverfahren](4-Entscheidungsverfahren.md)) vorzubringen.
 
-###Aufgabenkreis der Generalversammlung
+### Aufgaben der Generalversammlung
 
-Der Generalversammlung sind folgende Aufgaben vorbehalten:
+Der Generalversammlung hat folgende Aufgaben:
 
 * Festsetzung eines Mitgliedbeitrages.
 * Wahl, Bestellung und Enthebung der Mitglieder des Vorstandes.
